@@ -10,3 +10,4 @@
 
 * http://www.catonmat.net/blog/git-aliases/
 * http://brettterpstra.com/projects/mdless/
+* https://github.com/magicmonty/bash-git-prompt
